@@ -6,4 +6,10 @@
 
 <!---
 To be improved
+Stuff that I still need to understand better:
+		HTML&CSS
+_____________________________________________
+How After and before pseudo's work, why do I need them
+What are roots and especially "REM's"
+Scales of pixels and heights in practice
 --->
